@@ -11,3 +11,8 @@
 
 ## Day1
 - https://colab.research.google.com/drive/1A3VbtjE8Qh7f0yWab1VqniqogiHEpk6_?usp=sharing
+
+
+
+## Generator
+- https://www.youtube.com/watch?v=uzInb5gbl4M&t=17770s
