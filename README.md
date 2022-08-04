@@ -12,7 +12,14 @@
 ## Day1
 - https://colab.research.google.com/drive/1A3VbtjE8Qh7f0yWab1VqniqogiHEpk6_?usp=sharing
 
+## Day2
+- https://colab.research.google.com/drive/1KW9C29YofUwAJ_CUQEibgj3dWvVNLwWX
 
+## Exam 1
+- https://colab.research.google.com/github/ywchiu/sktm/blob/main/Exam1.ipynb
+
+
+# 補充資料
 
 ## Generator
 - https://www.youtube.com/watch?v=uzInb5gbl4M&t=17770s
