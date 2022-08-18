@@ -15,6 +15,9 @@
 ## Day2
 - https://colab.research.google.com/drive/1KW9C29YofUwAJ_CUQEibgj3dWvVNLwWX
 
+## Day3
+- https://colab.research.google.com/drive/1sOLpZIZlV-BvNQrdSTdHedDh12Gsr0Cb?usp=sharing
+
 ## Exam 1
 - https://colab.research.google.com/github/ywchiu/sktm/blob/main/Exam1.ipynb
 
