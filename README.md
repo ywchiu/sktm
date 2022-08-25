@@ -18,9 +18,14 @@
 ## Day3
 - https://colab.research.google.com/drive/1sOLpZIZlV-BvNQrdSTdHedDh12Gsr0Cb?usp=sharing
 
+## Day4
+- https://colab.research.google.com/drive/17Mab44WuZTp3XGvowen32J69wiNaSCiz?usp=sharing
+
 ## Exam 1
 - https://colab.research.google.com/github/ywchiu/sktm/blob/main/Exam1.ipynb
 
+## Exam 2 
+- https://colab.research.google.com/github/ywchiu/sktm/blob/main/Exam2.ipynb
 
 # 補充資料
 
